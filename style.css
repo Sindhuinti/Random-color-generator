@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color:#555c52;
+    margin: 0;
+}
+.head{
+    padding:1%;
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'Lobster', cursive;
+    font-size: 150%;
+}
+.box{
+    color:#000000;
+    margin:5% 15%;
+    font-weight: bold;
+}
+.color{
+    background-color: #ffffff;
+    color: #000000;
+    padding:2% 5%;
+    font-weight: bold;
+    border: none;
+    margin:10% auto;
+}
+.button{
+    background-color:#ac28e0 ;
+    padding:2% 5%;
+    border: 2px solid black;
+    font-weight: bold;
+}
+.button:hover{
+    background-color: #aa6ec2;
+}
